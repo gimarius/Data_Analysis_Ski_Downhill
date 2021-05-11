@@ -1,5 +1,5 @@
 # Data_Analysis_Ski_Downhill
-ETL - Data Analysis - Data Visulatioation - R Bootcamp
+## ETL - Data Analysis - Data Visulatioation - R Bootcamp
 
 See Project Description for more information.
 
